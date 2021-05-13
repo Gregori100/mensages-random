@@ -13,8 +13,16 @@
   ],
   "author": "Diego Velez Cassellis <diegovelcaz@hotmail.com>",
   "license": "MIT",
-  "bin":{
-    "msg-aleatorios": "./bin/global.js"
+  "bin": {
+    "msg-aleatorios": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregori100/mensages-random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gregori100/mensages-random/issues"
+  },
+  "homepage": "https://github.com/Gregori100/mensages-random#readme"
 }
